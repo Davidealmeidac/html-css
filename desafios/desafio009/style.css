@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: rgb(49, 51, 51);
+}
+
+h1 {
+    font-family: sans-serif;
+    color: white;
+}
+
+#backbuttom {
+    margin-top: 10px;
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
